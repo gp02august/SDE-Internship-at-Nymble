@@ -1,5 +1,10 @@
 # Travel Package Management System
   This Java application, Travel Planner, allows users to create travel packages with destinations, activities, and sign up passengers for various activities within those destinations. The application demonstrates the usage of classes such as 'Destination', 'Activity, Passenger', and 'TravelPackage' to organize and manage travel-related information.
+# Editor Used:
+* Visual Studio Code
+# Extension which are used for testing the cases:
+* JUnit
+
 # Table of Contents
 * Getting Started
 * Usage
